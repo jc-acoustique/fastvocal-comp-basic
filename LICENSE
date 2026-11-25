@@ -1,0 +1,26 @@
+FastVocal Comp Basic — Licence
+Copyright (c) 2026 TwinRoots Audio. All rights not granted below are reserved.
+
+You may, free of charge:
+  1. Use this software, built from this source code, for any purpose, including
+     commercial music production, mixing, mastering and live performance.
+  2. Study and modify the source code, and build it for your own use.
+  3. Share this source code or modified versions of it, free of charge, provided that
+     this licence and the copyright notice above are kept, and modified versions are
+     clearly marked as modified and do not use the name "FastVocal Comp".
+
+You may not:
+  4. Sell, rent or license this software or any modified version of it, in source or
+     compiled form, or include it in a product or service that is sold.
+
+The audio you process with this software is yours, without restriction.
+
+Third-party software: this project is built with the JUCE framework, which is not part
+of this repository and is downloaded at build time under its own licence
+(https://juce.com/legal/juce-8-licence/).
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF
+THE SOFTWARE.
